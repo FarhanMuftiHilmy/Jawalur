@@ -8,6 +8,12 @@
     tools:context=".ui.login.LoginActivity">
 
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Masuk"/>
+
     <EditText
         android:id="@+id/edt_email_login"
         android:layout_width="match_parent"
